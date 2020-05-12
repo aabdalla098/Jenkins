@@ -9,7 +9,6 @@ public class Student {
 	private String percentage;
 	private String yearPassed;
 	
-	
 	public Student(){}
 
 	public int getStudentId() {
@@ -23,8 +22,6 @@ public class Student {
 	public String getStudentName() {
 		return studentName;
 	}
-	
-
 
 	public void setStudentName(String studentName) {
 		this.studentName = studentName;
